@@ -1,0 +1,1 @@
+This repository includes code for authoring tools we have built. They help create layers and annotate interfaces. They are in various levels of fidelity, but they are helpful for understanding how to reverse engineer an interface.
